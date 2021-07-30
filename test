@@ -1,0 +1,17 @@
+total 52
+drwxrwxr-x. 2 vfouillet vfouillet  4096 Apr 30 12:58 include
+drwxrwxr-x. 2 vfouillet vfouillet  4096 May  2 15:04 lib
+-rw-rw-r--. 1 vfouillet vfouillet   865 Apr 30 18:09 Makefile
+-rwxrwxr-x. 1 vfouillet vfouillet 25984 May  2 15:04 mysh
+drwxrwxr-x. 2 vfouillet vfouillet  4096 May  2 15:04 src
+-rw-rw-r--. 1 vfouillet vfouillet     0 May  2 15:11 test
+-rwxrwxr-x. 1 vfouillet vfouillet  3669 Apr 30 17:23 tester.sh
+-rw-rw-r--. 1 vfouillet vfouillet  2604 Apr 30 17:23 tests
+include
+lib
+Makefile
+mysh
+src
+test
+tester.sh
+tests
